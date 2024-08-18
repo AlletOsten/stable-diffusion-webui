@@ -1,0 +1,2 @@
+Requirement already satisfied: portalocker in c:\users\gordo\documents\github\stable-diffusion-webui\venv\lib\site-packages (2.10.1)
+Requirement already satisfied: pywin32>=226 in c:\users\gordo\documents\github\stable-diffusion-webui\venv\lib\site-packages (from portalocker) (306)
